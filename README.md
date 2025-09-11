@@ -45,6 +45,19 @@ TECH USED IN BUILDING:
 * Stores quiz questions, options, and answers in a structured array.
 * Dynamically loads questions and answer buttons.
 * Checks answers, highlights correct/wrong choices, and updates score.
+
+DEPLOYMENT STEPS:
+*I kept it simple and put the project live using GitHub Pages. Here’s what I did:
+
+*Pushed all the files (HTML, CSS, JS, images) to this repo.
+
+*Went to Settings → Pages, picked the main branch.
+
+*GitHub gave me a link after a few seconds.
+
+*Opened that link (https://prayasp18.github.io/NSCC-domain-task/).
+
+*And boom 💥 It was live!
  
 SCREENSHOTS:
 
