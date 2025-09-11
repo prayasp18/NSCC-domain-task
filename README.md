@@ -42,9 +42,10 @@ TECH USED IN BUILDING:
  
 SCREENSHOTS:
 
-Here’s how the project looks:
+Here’s how the project looks: 
 
-![Quiz Screenshot](./assets/screenshot.png)
+![Quiz Screenshot](https://raw.githubusercontent.com/prayasp18/NSCC-domain-task/main/assets/screenshot.png)
+
 
 
 
