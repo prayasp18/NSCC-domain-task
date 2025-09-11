@@ -2,7 +2,7 @@
 This project is a command-line quiz application for NSCC Technical Task 2. The program presents a series of multiple-choice questions, checks answers for correctness, provides detailed feedback and the correct answers in case the answer was wrong and summarizes the user's performance at the end.
 
 Get Your Access To The Fun Quiz Game:
-* CLICK HERE ----> (https://praysp18.github.io/NSCC-domain-task/)
+* CLICK HERE ----> (https://prayasp18.github.io/NSCC-domain-task/)
   
 Features:
 
