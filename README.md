@@ -40,5 +40,10 @@ TECH USED IN BUILDING:
 
 * For (quiz logic: questions, options, score calculation)
  
+SCREENSHOTS:
+
+Here’s how the project looks:
+
+![Quiz Screenshot](./assets/screenshot.png)
 
 
