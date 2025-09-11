@@ -44,9 +44,7 @@ SCREENSHOTS:
 
 Here’s how the project looks: 
 
-![Quiz Screenshot](./assets/screenshot.1.png)
-![Quiz Screenshot](./assets/screenshot.2.png)
-![Quiz Screenshot](./assets/screenshot.3.png)
+![Quiz Screenshot](./assets/screenshot.png)
 
 
 
