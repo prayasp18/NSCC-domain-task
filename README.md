@@ -29,16 +29,22 @@ WORKS ON BOTH DESKTOP AND MOBILES:
 TECH USED IN BUILDING:
 
 -> HTML5 for building the structure of the page
-
 * For (div, button, etc.)
+* Defines the structure of the quiz (buttons, questions, containers).
+* Provides semantic elements (div, h1, p, button).
+* Acts as the skeleton where CSS styles and JavaScript logic are applied.
   
 -> CSS for Styling and Animations.
-
 * For (.quiz-container, animations, colors, etc.)
+* Adds interactivity with hover effects and smooth animations (fade-in).
+* Provides color feedback (green = correct, red = wrong).
+* Ensures responsive layout that works on desktop & mobile.
   
 -> JAVASCRIPT for logic and interactivity.
-
 * For (quiz logic: questions, options, score calculation)
+* Stores quiz questions, options, and answers in a structured array.
+* Dynamically loads questions and answer buttons.
+* Checks answers, highlights correct/wrong choices, and updates score.
  
 SCREENSHOTS:
 
