@@ -44,8 +44,7 @@ SCREENSHOTS:
 
 Here’s how the project looks: 
 
-![Quiz Screenshot](./assets/screenshot.png)
-
+![image alt](https://github.com/prayasp18/NSCC-domain-task/blob/622ed23841547c67a79aaa52654bf0975ce2e2ff/assets/Screenshot.1.png)
 
 
 
