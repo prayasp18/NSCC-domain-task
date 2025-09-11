@@ -46,7 +46,7 @@ Here’s how the project looks:
 
 ![image alt](https://github.com/prayasp18/NSCC-domain-task/blob/622ed23841547c67a79aaa52654bf0975ce2e2ff/assets/Screenshot.1.png)
 ![image alt](https://github.com/prayasp18/NSCC-domain-task/blob/eb692289e9df80bd73d568fab7f78af570a0eb43/assets/Screenshot.2.png)
-
+![image alt](https://github.com/prayasp18/NSCC-domain-task/blob/827b0bec16a88d83fa3be424ae7c131cdee3680b/assets/Screenshot.3.png)
 
 
 
